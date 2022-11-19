@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/assignment-2-dionbdev/static/css/main.c9b7ba13.css",
+    "main.js": "/assignment-2-dionbdev/static/js/main.df2ef27b.js",
+    "index.html": "/assignment-2-dionbdev/index.html",
+    "main.c9b7ba13.css.map": "/assignment-2-dionbdev/static/css/main.c9b7ba13.css.map",
+    "main.df2ef27b.js.map": "/assignment-2-dionbdev/static/js/main.df2ef27b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9b7ba13.css",
+    "static/js/main.df2ef27b.js"
+  ]
+}
